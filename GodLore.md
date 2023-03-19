@@ -1,0 +1,3 @@
+hello
+Vale Goddess of Love and Marriage
+her true title is "goddess of love and lust" though most people over the years choose to forget the latter part of her title. She's the Goddess that people have dedicated to the Day of Love or Valentines Day due to her power over the heart and making people fall in love with each other. Usually prayed to by people who want to have blessings over their relationship and its longevity. She is also called upon during Marriages to unite the two prospective spouses in holy matrimony hence people over the years replacing her second title of "lust" to "marriage"
