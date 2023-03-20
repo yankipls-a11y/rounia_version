@@ -1,0 +1,27 @@
+
+/* Font Families */
+/* @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Satisfy&display=swap');
+
+
+body{
+    background-color: black;
+}
+
+
+h1{ 
+    font-family: 'Satisfy', cursive;
+    color: white;
+    text-align: center;
+} 
+
+h2 {
+    font-family: 'Satisfy', cursive;
+    color: yellow;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    color: whitesmoke;
+    font-size: 1.2rem;
+}
